@@ -1,0 +1,10 @@
+Steps to reproduce:
+1.Open register form
+2.Leave blank username field
+3.Click register
+
+Expected result:
+-Error:username field is required
+
+Actual result:
+-Successful registration
